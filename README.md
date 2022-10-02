@@ -8,9 +8,9 @@ function ML + function make_result_list
 # file 2: Applying_Example
 ```markdown
 appliying giant function to dataset(preprocessing + applying to giant function + analysis result)
-* dataset link : https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
-* used_data : breast-cancer-wisconsin.data, breast-cancer-wisconsin.names
 ```
+* used_data : breast-cancer-wisconsin.data, breast-cancer-wisconsin.names
+dataset link : <https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/>
 
 # func1: Giant Function ML
 ```markdown
