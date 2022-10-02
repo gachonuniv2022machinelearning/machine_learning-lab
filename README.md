@@ -1,11 +1,11 @@
 # machine_learning-2022-
 Gahchon Univ/machine_learning(2022)
 function of phw#1 large function
-# file 1: Giant Function
+# file 1: Giant Function.ipynb
 ```markdown
 function ML + function make_result_list
 ```
-# file 2: Applying_Example
+# file 2: Applying_Example.ipynb
 ```markdown
 appliying giant function to dataset(preprocessing + applying to giant function + analysis result)
 ```
