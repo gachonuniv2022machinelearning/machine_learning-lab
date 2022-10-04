@@ -24,7 +24,7 @@ dataset link : <https://www.kaggle.com/camnugent/california-housing-prices>
 |standard|minmax|maxabs|robust|norm|
 |------|---|---|---|---|
 
-##encoder
+## encoder
 
 |label|onehot|ordinal|
 |------|---|---|
